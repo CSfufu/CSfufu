@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CSfufu
 - 👀 I’m interested in web3.0
-- 🌱 I’m currently learning LTG problem solving
+- 🌱 I’m currently [learning LTG problem solving](https://github.com/ai-agi/LLMs-Enhanced-Long-Text-Generation-Survey#readme_)
 - 💞️ I’m looking to collaborate on web3
-- 📫 How to reach me : you can get access to https://notion-next-six-rouge.vercel.app/
+- 📫 How to reach me : you can get access [here](https://notion-next-six-rouge.vercel.app/)
 
 <!---
 CSfufu/CSfufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
