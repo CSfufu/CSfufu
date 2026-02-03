@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CSfufu
-- I am currently focus on MLLM reasoning and Reinforcement Learning.
+- I am currently focus on VLM Agentic reasoning and Reinforcement Learning.
 
 
 <!---
